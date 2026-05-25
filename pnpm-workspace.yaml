@@ -4,7 +4,7 @@ packages:
 
 overrides:
   '@docsearch/react': '-'
-  fflate: 0.8.2
+  fflate: 0.8.3
   rolldown: catalog:prod
   vite: catalog:docs
 
@@ -19,7 +19,7 @@ catalogs:
     '@types/node': ^25.9.1
     '@types/picomatch': ^4.0.3
     '@types/semver': ^7.7.1
-    '@typescript/native-preview': 7.0.0-dev.20260521.1
+    '@typescript/native-preview': 7.0.0-dev.20260525.1
     '@vitest/coverage-v8': ^4.1.7
     '@vitest/ui': ^4.1.7
     actionspack: ^0.1.5
